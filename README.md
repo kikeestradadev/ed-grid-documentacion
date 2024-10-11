@@ -12,5 +12,5 @@ Instructions:
 * ```gulp build``` before deployment
 * ```npm run deploy``` to publish the site in gh pages
 
-## gh-pages link: https://kikeestrada.github.io/ed-grid-documentacion/
+## gh-pages link: https://kikeestradadev.github.io/ed-grid-documentacion/
 
