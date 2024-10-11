@@ -6,7 +6,7 @@
   "main": "gulpfile.babel.js",
   "homepage": "https://kikeestrada.github.io/ed-grid-documentacion/",
   "scripts": {
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages -d . -x node_modules"
   },
   "author": "Enrique Estrada",
   "license": "GPL-2.0",
